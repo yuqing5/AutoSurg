@@ -1,0 +1,75 @@
+## Work journal
+
+
+### Week of January 18th - January 24th, 2021
+
+
+#### Jan.21st
+- download the github TMTDyn package
+
+
+#### Jan.22nd
+- Read the first 10 pages of "TMTDyn: A Matlab package for modeling and control of hybrid rigid–continuum robots based on discretized lumped systems and reduced-order models"
+
+
+#### Jan.24rd
+- Read the first 20 pages of the essay
+
+
+
+## Week of January 25th - January 31st, 2021
+
+
+#### Jan 25th
+- Run the post processing dynamic simulation
+
+
+#### Jan 26th
+- Read the code structure and algorithm for TMTDyn
+
+
+#### Jan 28th
+- Run the post processing static simulation
+
+
+#### Jan 29th
+- Read the section about TMT EOM derivation and optimization and run the optimization of matlab
+
+
+#### Jan 30th
+- Run different models(EBR, EBA, ROM, SRL) and compare the performance result for different modeling
+
+
+#### Jan 31st
+- Read the rest of the easy
+
+
+
+## Week of February.1st - February.7th
+
+
+#### Feb 5th
+- Download Unity and start a small project following tutorial
+
+
+#### Feb 6th
+- Make objects, materials and prefabs. Learn about the user interface.
+
+
+#### Feb 7th
+- Start simulating simple objects with physics settings and start to learn C#.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
